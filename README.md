@@ -8,7 +8,7 @@
 <br/></br>
 
 ## 📱 Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-FF80B1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gyhbelchior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1ADCFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyhbelchior/) [![Gmail](https://img.shields.io/badge/Gmail-DA87F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gislainebelchior@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FF80B1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gyhbelchior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1ADCFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gislainebelchior/) [![Gmail](https://img.shields.io/badge/Gmail-DA87F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gislainebelchior@gmail.com)
 <br/></br>
 ## 💻Linguagens de marcação e estilo
 ![HTML5](https://img.shields.io/badge/HTML5-FF80B1?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1ADCFA?style=for-the-badge&logo=css3&logoColor=white)
