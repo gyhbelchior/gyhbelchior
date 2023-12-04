@@ -4,7 +4,7 @@ Sou uma desenvolvedora front-end e mobile apaixonada por criar experiências inc
 <br/></br><br/></br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyhbelchior&theme=transparent&bg_color=DA87F5&border_color=90F8F5&show_icons=true&icon_color=FFA3B1&title_color=90F8F5&text_color=FFF)
 
-
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <br/></br>
 
 ## 📱 Conecte-se comigo
