@@ -1,7 +1,7 @@
 
 # Oii, eu sou a Gislaine 👩‍💻
-
-
+Sou uma desenvolvedora front-end e mobile apaixonada por criar experiências incríveis e funcionais para os usuários. Fique à vontade para explorar meus projetos e entre em contato caso queira colaborar ou saber mais sobre meu trabalho! 📫
+<br/></br><br/></br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyhbelchior&theme=transparent&bg_color=DA87F5&border_color=90F8F5&show_icons=true&icon_color=FFA3B1&title_color=90F8F5&text_color=FFF)
 
 
